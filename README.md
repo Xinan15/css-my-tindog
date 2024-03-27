@@ -17,4 +17,6 @@ TinDog is a fun, creative project that mimics a dating app but with a twist: it'
 - HTML5
 
 ### Screenshot
-<img src="screenshot.png" width="800"/>
+<img src="./screenshots/demo1.png" width="800"/>
+<img src="./screenshots/demo2.png" width="800"/>
+<img src="./screenshots/demo3.png" width="800"/>
