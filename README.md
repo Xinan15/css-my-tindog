@@ -12,6 +12,9 @@ TinDog is a fun, creative project that mimics a dating app but with a twist: it'
 
 ### Technologies Used
 
-- HTML5
-- CSS3
 - Bootstrap 4
+- CSS3
+- HTML5
+
+### Screenshot
+<img src="screenshot.png" width="800"/>
